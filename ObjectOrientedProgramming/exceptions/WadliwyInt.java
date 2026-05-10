@@ -1,4 +1,4 @@
-package wyjątki;
+package exceptions;
 
 public class WadliwyInt{
     private int value;
