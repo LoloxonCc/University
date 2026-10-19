@@ -1,5 +1,3 @@
-package lab02.assignments;
-
 import java.io.IOException;
 import java.time.Clock;
 
