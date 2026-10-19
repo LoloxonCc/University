@@ -1,5 +1,3 @@
-package lab03.assignments;
-
 import java.util.ArrayList;
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
